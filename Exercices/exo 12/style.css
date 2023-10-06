@@ -1,0 +1,45 @@
+img {
+  width: 5em;
+  height: 5em;
+}
+
+div.d_legende {
+
+}
+
+div.d_miniportraits {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+div.d_miniportrait {
+  width: 50%;
+}
+
+.d_bullet {
+  width: 10px;
+  height: 10px;
+  border-radius: 90px;
+  margin-right: 1px;
+  display: inline-block;
+  margin-left: 0px;
+}
+
+.d_ppe {
+  background: transparent;
+}
+
+.d_sd {
+  background:transparent;
+}
+
+.d_renew {
+  background:transparent;
+}
+
+.d_neutre {
+  background: grey;
+}
+
+

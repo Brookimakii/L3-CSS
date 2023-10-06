@@ -1,0 +1,20 @@
+table{
+  border: 1px solid black;
+  color: white;
+  font-weight: bolder;
+  width: 15em;
+}
+
+tr:nth-child(odd){
+  background-color: red;
+}
+tr:nth-child(even){
+  background-color: grey;
+}
+tr:nth-child(3n){
+  background-color: blue;
+}
+tr:nth-child(7){
+  background-color: green;
+}
+

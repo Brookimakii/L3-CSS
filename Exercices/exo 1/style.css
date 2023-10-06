@@ -1,0 +1,43 @@
+body{
+  margin: auto;
+  width: fit-content;
+  font-size: 0.75em;
+}
+
+h3 {
+  padding: 0.5em;
+  background-color: #da944e;
+}
+
+div {
+  background-color: #8e9894;
+}
+
+caption{
+  font-size: 1.75em;
+}
+
+table {
+  text-align: center;
+  margin: auto;
+  padding: 0 1em 1em 1em;
+}
+
+td {
+  width: 1.75em;
+  border: 0.05em solid #8e9894;
+  color: black;
+  background-color: #5d5c5d;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3, caption, th, a {
+  color: white;
+}
+
+caption, a {
+  font-weight: bold;
+}

@@ -1,0 +1,3 @@
+tr:has(th input:checked)>td{
+  content-visibility: hidden;
+}

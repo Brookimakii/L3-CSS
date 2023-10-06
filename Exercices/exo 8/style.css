@@ -1,0 +1,18 @@
+form {
+  text-align: left;
+
+  margin: auto;
+
+  width: 500px;
+}
+div {
+  text-align: right;
+  margin: auto;
+  width: 500px;
+}
+.inputText{
+  width: 300px;
+}
+.inputRadio{
+  margin-right: 57.3%;
+}
