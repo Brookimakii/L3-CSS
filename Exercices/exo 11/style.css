@@ -1,0 +1,17 @@
+form {
+  padding:  1em;
+  margin: 1em;
+  border: 1px solid black;
+  display: flex;
+}
+
+div > * {
+  margin: 1em;
+  padding: 1em;
+}
+
+#search {
+  margin: 0 1em;
+  flex: max-content;
+  min-width: 0;
+}

@@ -1,0 +1,12 @@
+input#1:checked {
+}
+
+input#2:checked {
+}
+
+input#3:checked:after img{
+  border: 5px solid black
+}
+
+input#4:checked {
+}
